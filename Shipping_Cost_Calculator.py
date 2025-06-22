@@ -1,4 +1,4 @@
-# Here is another update by RohitSaklani
+ # Here is a new update by RohitSaklani
  # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
